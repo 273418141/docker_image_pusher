@@ -1,3 +1,4 @@
 xiaoyaliu:alist
 jellyfin:jellyfin
 kasmweb:qbittorrent
+alpine
